@@ -283,7 +283,7 @@ export class ElectionComponent implements OnInit {
     this.addnewArray.push(this.add);
     this.add = {
       SubElectionId: '',
-      ElectionName: '',
+      ElectionName: ''
     };
   }
   //-------------------------------------------------------------------------Delete------------------------------------------------------------
